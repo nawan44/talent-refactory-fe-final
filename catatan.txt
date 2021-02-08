@@ -1,0 +1,39 @@
+Tugas berisi file pdf, repository, dan video dengan susunan:
+
+1. Perkenalan (Durasi 00.57)
+2. Teknologi - Web Browser (Durasi 01.53)
+2. Teknologi - HTML CSS (Durasi 04.12)
+2. Teknologi - Javascript Family (Durasi 02.54)
+3. Instalasi (Durasi 05.42)
+4. Setup Project - Part1 (Durasi 05.06)
+4. Setup Project - Part2 (Durasi 05.11)
+4. Setup Project - Part3 (Durasi 04.34)
+5. Header - part1 (Durasi 05.52)
+5. Header - part2 (Durasi 05.46)
+5. Header - part3 (Durasi 05.56)
+6. Navbar - part1 (Durasi 05.35)
+6. Navbar - part2 (Durasi 05.37)
+7. Footer - part1 (Durasi 05.26)
+7. Footer - part2 (Durasi 05.28)
+7. Footer - part3 (Durasi 05.47)
+7. Footer - part4 (Durasi 05.30)
+7. Footer - part5 (Durasi 04.10)
+7. Footer - part6 (Durasi 04.08)
+8. About - part1 (Durasi 05.38)
+8. About - part2 (Durasi 05.00)
+8. About - part3 (Durasi 05.53)
+
+
+Total 22 Video
+
+Total Durasi Video :
+106 Menit 15 detik 
+
+Mohon maaf jika videonya hanya bisa sampai sini, 
+jauh dari ekspektasi dan plan saya di awal
+karena load pekerjaan saya dikantor sangat banyak saya ga bisa membuat video lebih banyak dan lebih baik.
+Membuat video tutorial ternyata amat sangat memakan waktu.
+Mungkin jika dibuat semua masih 2jam dan itu membutuhkan waktu seminggu lagi dengan load pekerjaan sekarang
+
+Salut buat tim refactory yang kualitas dan kuantitas video tutorialnya cukup bagus dan semakin baik.
+
