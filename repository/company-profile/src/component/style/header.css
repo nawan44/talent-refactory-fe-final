@@ -24,15 +24,23 @@
   font-weight: 700px;
   line-height: 50px;
 }
+.row-header {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
 .line-header {
   margin: 0 auto;
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;
-  width: 500px;
+  width: 60%;
+  float: left;
   border-color: red;
 }
 .tag-line {
+  width: 100%;
+  float: left;
   color: #ffffff;
   text-align: center;
   margin: 0 auto;

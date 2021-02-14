@@ -19,7 +19,7 @@ function Header() {
             <img src={logo} className="logo-header" />
           </Row>
           <h1 className="brand-name">Rachwan</h1>
-          <Row>
+          <Row class="row-header">
             <hr className="line-header" />
             <hr className="line-header" />
           </Row>
